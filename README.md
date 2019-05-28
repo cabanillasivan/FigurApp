@@ -1,2 +1,0 @@
-# FigurApp
-TFG Iván Cabanillas
